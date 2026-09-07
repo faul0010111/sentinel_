@@ -6,8 +6,6 @@
 
 `BEHAVIOR` + `TIME` + `GRAPH` + `RISK FUSION` → **Unified Cloud Threat Risk**
 
-[![ci](https://github.com/USERNAME/cloudsentinel/actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
-[![security](https://github.com/USERNAME/cloudsentinel/actions/workflows/security.yml/badge.svg)](../../actions/workflows/security.yml)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue.svg)](pyproject.toml)
 
