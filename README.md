@@ -1,6 +1,6 @@
 <div align="center">
 
-# CloudSentinel
+# Sentinel
 
 **AI-Driven Behavioral Threat Detection for Modern Cloud Infrastructure**
 
